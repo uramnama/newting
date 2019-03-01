@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 public/
-rm -f ./.git/index.lock
+git config --global user.name "uramnama"
+git config --global user.email "uramnama@gmail.com"
