@@ -40,8 +40,8 @@ googleAnalytics = ""
 
 [params]
     since = 2012
-    author = "Fastbyte01"               # Author's name
-    avatar = "/images/me/avatar.jpeg"           # Author's avatar
+    author = "Aman Maru"               # Author's name
+    avatar = "/images/me/thinkingicon.PNG"           # Author's avatar
     subtitle = "A Hugo theme"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
